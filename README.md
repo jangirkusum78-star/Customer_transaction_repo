@@ -40,6 +40,11 @@ The model was able to capture customer behavior patterns effectively.
 Achieved a balanced performance across evaluation metrics.
 - Business Insight
 Customers who share similar data patterns with previously positive cases are more likely to show the same condition in the future. The models learned these patterns directly from the historical dataset and used them to assign risk probabilities to each customer. Customers with higher prediction scores can be treated as priority cases for monitoring or early intervention. This helps the business focus efforts on the most likely future cases instead of applying the same strategy to everyone.
+- Dataset
+-The dataset used in this project was provided by faculty for academic purposes and is not publicly available.
+Due to size and access restrictions, the dataset is not included in this repository. 
+To run this project, place the dataset in the `data/` folder.
+
 
  Project Structure
 customer-transaction-analysis/s
